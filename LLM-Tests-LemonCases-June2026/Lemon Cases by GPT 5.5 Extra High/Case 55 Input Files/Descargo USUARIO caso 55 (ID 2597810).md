@@ -1,0 +1,79 @@
+# Descargo USUARIO caso 55 (ID 2597810).pdf
+
+> Transcribed from PDF using agent vision
+> Generated: 2026-05-19 12:39:31
+> Pages: 2
+
+---
+
+## Page 1
+
+[IMAGE]
+Type: logo
+Summary: Purple Kleros header banner with the white text "KLEROS" and a geometric logo.
+[/IMAGE]
+
+### Motivo del reclamo
+
+Otros
+
+### ¿Por qué motivos crees que debes ganar el caso?:
+
+Realicé una transferencia de dinero desde mi cuenta a un destinatario, pero la transacción no llegó a su destino. Sin embargo, el monto de la transferencia fue debitado de mi billetera.
+
+He intentado resolver el problema a través del soporte de Lemon, pero hasta el momento no he recibido una respuesta satisfactoria.
+
+Adjunto el comprobante de la transferencia para corroborar mi reclamo y solicito que se efectúe el reembolso del monto debitado o que se realice el pago correcto al destinatario indicado. Es esencial que se resuelva esta situación a la mayor brevedad posible.
+
+### Pruebas:
+
+## Page 2
+
+[IMAGE]
+Type: logo
+Summary: Purple Kleros header banner with the white text "KLEROS" and a geometric logo.
+[/IMAGE]
+
+[IMAGE]
+Type: screenshot
+Summary: Comprobante de transferencia de Lemon por ARS 150.909,00.
+Text:
+13:12
+
+ARS 150.909,00
+29 Julio 2024 13:05 hs
+
+Enviado por
+Cristina Noemi TORRALES
+
+Persona destinataria
+
+Nombre
+Cristina Noemi Torrales
+
+CUIT
+27274125050
+
+CBU
+0000205100272741250505
+
+Banco destino
+CVU
+
+Motivo
+Varios
+
+COELSA ID
+3D5W612E38Q657KG2GXYVR
+
+ID de la transacción
+4bd3be5d-b1aa-4e95-b704-3b943de1aca7
+
+LEMON
+
+Powered by Digifin
+
+Comprobante de transferencia
+
+Compartir recibo
+[/IMAGE]
